@@ -1,0 +1,2 @@
+List Rendering, v-for
+can use array, array of object

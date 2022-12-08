@@ -1,0 +1,8 @@
+Conditional Rendering
+use v-if, v-else-if, v-else
+*menggunakan ini jika ada sesuatu kondisi dengan muncul sementara
+
+
+The v-show Directive
+use v-show
+*menggunakan ini jika ingin muncul/hilang secara terus-menerus
